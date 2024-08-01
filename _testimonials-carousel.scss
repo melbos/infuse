@@ -1,0 +1,9 @@
+.b-testimonials-carousel {
+  &__body {
+    &-carousel {
+      .swiper-slide {
+        height: auto;
+      }
+    }
+  }
+}
